@@ -4,9 +4,9 @@ document.addEventListener("DOMContentLoaded", () => {
   // Mapping each link to a billboard location
   const linkNames = {
     link1: "Computer Village",
-    link2: "MBA",
+    link2: "Ikorodu",
     link3: "Falomo",
-    link4: "Ikoyi",
+    link4: "Ladipo",
     link5: "Eko bridge",
   };
 
