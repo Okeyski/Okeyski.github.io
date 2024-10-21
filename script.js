@@ -3,10 +3,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Mapping each link to a billboard location
   const linkNames = {
-    link1: "Yaba",
+    link1: "Mile 2",
     link2: "Ojuelegba",
-    link3: "Falomo (static)",
-    link4: "Ibeju Lekki",
+    link3: "Igando",
+    link4: "Marina",
     link5: "Eko bridge",
   };
 
