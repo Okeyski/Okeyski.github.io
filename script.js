@@ -72,7 +72,7 @@ document.addEventListener("DOMContentLoaded", () => {
             </h1>
             <p class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">
           To proceed, scan the QR code on our ad at this location:</p>
-          <code>${linkNames[sequence[nextPageIndex]]}</code>
+          <p class="dark:text-white"><code>${linkNames[sequence[nextPageIndex]]}</code></p>
           </div>
         </div>
       </div>
